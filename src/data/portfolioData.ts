@@ -10,6 +10,7 @@ import {
 export const PERSONAL_INFO = {
   name: 'Salman Faris R',
   title: 'AI & Data Science Engineer | Agentic Systems Developer',
+  profileImage: '/salman.jpeg',
   tagline: 'Crafting Next-Gen Agentic AI Systems, RAG Pipelines & Intelligent Full-Stack Applications',
   location: 'Chennai, Tamil Nadu, India',
   email: 'salmanfarisr.btech@gmail.com',
