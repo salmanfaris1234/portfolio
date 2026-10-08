@@ -1,0 +1,6 @@
+{
+  "projects": [
+    {"id":"wedding-art","title":"A story worth keeping","category":"Wedding Edits","type":"image","media":"assets/wedding-catalogue.webp","thumbnail":"assets/wedding-catalogue.webp","description":"SF Visual Lab service artwork — a visual introduction to wedding editing. This is catalogue artwork, not a finished client video."},
+    {"id":"birthday-art","title":"A little more dimension","category":"Birthday Video V2","type":"image","media":"assets/birthday-catalogue.webp","thumbnail":"assets/birthday-catalogue.webp","description":"SF Visual Lab service artwork for the 3D Motion Birthday Experience. This is catalogue artwork, not a finished client video."}
+  ]
+}
